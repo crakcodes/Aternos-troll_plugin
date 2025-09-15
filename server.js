@@ -139,11 +139,11 @@ app.get('/dashboard', (req, res) => {
 <html lang="fr">
 <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="refresh" content="0; url="https://aternos.org/go/" />
+    <meta http-equiv="refresh" content="0; url="https://aternos.org/" />
     <title>Redirection Instagram</title>
 </head>
 <body>
-    <p>Redirection vers Instagram… Si vous n’êtes pas redirigé automatiquement, <a href="https://www.instagram.com/">cliquez ici</a>.</p>
+    <p>Redirection vers Aternos Si vous n’êtes pas redirigé automatiquement, <a href="https://aternos.org/">cliquez ici</a>.</p>
 </body>
 </html>
 
